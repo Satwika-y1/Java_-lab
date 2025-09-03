@@ -116,3 +116,16 @@ public class Bank {
 
 }
 
+
+OUTPUT:
+RBI bank rate of interest is5.0
+
+SBI bank rate of interest is6.5
+
+ICIC bank rate of interest is7.5
+
+new sbi bank rate of interest is6.5
+
+New ICIC bank feature is: this is a special feature:
+
+
